@@ -1,3 +1,3 @@
 # <))))><
 
-I'm Nate. I work mainly with TypeScript but mess around with Python and Rust. I'm looking for a job so reach out. I switch between MacOS, Windows, Fedora, and NixOS. More [here](https://ntedvs.com).
+I'm Nate. I work with TypeScript, Python, and Rust. I'm a student at The University of Pittsburgh. I switch between MacOS, Windows, Fedora, and NixOS. More [here](https://ntedvs.com).
