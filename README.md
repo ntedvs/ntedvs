@@ -13,4 +13,4 @@ Some things I've made:
 - [**byeku**](https://byeku.com) -- haiku signatures for your emails
 - [**inmural**](https://inmural.ntedvs.com) -- make a mural from your album covers
 
-More at [ntedvs.com](https://ntedvs.com). [Resume](https://raw.githubusercontent.com/ntedvs/resume/main/resume.pdf).
+More at [ntedvs.com](https://ntedvs.com). [Resume](https://raw.githubusercontent.com/ntedvs/resume/refs/heads/main/resume.pdf).
